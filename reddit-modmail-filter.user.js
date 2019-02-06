@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  Filters modmail from inbox
 // @author       Kirzi (blackaurora)
-// @match        https://*.reddit.com/message/messages*
+// @match        https://*.reddit.com/message/messages/
 // @grant        GM_addStyle
 // @run-at       document-start
 // ==/UserScript==
